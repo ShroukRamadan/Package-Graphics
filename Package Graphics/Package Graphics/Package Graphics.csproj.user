@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="2D Geometric Transformations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Drawing Circle Using Bresenham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Drawing Line Using Bresenham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingElipseUsingBresenham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingLineUsingDDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
